@@ -77,6 +77,7 @@ const (
 	WebexProvider         string = "webex"
 	SentryProvider        string = "sentry"
 	AzureEventHubProvider string = "azureeventhub"
+	PagerDutyProvider     string = "pagerduty"
 )
 
 // ProviderStatus defines the observed state of Provider
